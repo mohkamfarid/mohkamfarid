@@ -46,7 +46,7 @@ I’ve worked on several production-ready apps available on the Play Store. [Rea
 •⁠  ⁠Writing clean, scalable TypeScript-first codebases
 
 ## 📫 Let's Connect
-•⁠  ⁠💼 [LinkedIn](https://www.linkedin.com/in/azka-bashir-4738831b0/)
+•⁠  ⁠💼 [LinkedIn](https://www.linkedin.com/in/mohkam-farid-431572176)
 •⁠  ⁠💬 Open to freelance & full-time opportunities
 
 ---
